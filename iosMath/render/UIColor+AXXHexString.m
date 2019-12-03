@@ -1,12 +1,12 @@
 //
-//  UIColor+HexString.m
+//  UIColor+AXXHexString.m
 //  iosMath
 //
 //  Created by Markus Sähn on 21/03/2017.
 //
 //
 
-#import "UIColor+HexString.h"
+#import "UIColor+AXXHexString.h"
 
 #if TARGET_OS_IPHONE
 

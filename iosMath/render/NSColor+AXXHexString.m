@@ -1,12 +1,12 @@
 //
-//  NSColor+HexString.m
+//  NSColor+AXXHexString.m
 //  iosMath
 //
 //  Created by Markus Sähn on 21/03/2017.
 //
 //
 
-#import "NSColor+HexString.h"
+#import "NSColor+AXXHexString.h"
 
 #if !TARGET_OS_IPHONE
 @implementation NSColor (HexString)

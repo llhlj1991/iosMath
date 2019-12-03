@@ -1,5 +1,5 @@
 //
-//  NSColor+HexString.h
+//  NSColor+AXXHexString.h
 //  iosMath
 //
 //  Created by Markus Sähn on 21/03/2017.
